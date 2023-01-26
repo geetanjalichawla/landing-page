@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     color: black;
-    weight: bold;
+    weight: 800;
 }
 .wrapper{
     height: 100vh;
@@ -26,12 +26,10 @@
 }
 .heading{
 font-size: 30px;
-font-weight: 600;
 }
 
 .blocks{
     font-size: 50px;
-    font-weight: 800; 
    
 }
 .para{
