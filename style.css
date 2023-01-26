@@ -42,6 +42,7 @@ font-weight: 600;
     width: 121px;
     height: 121px;
     filter: blur(75px);
+     z-index: -1;
 }
 .saffron{
     /* left: -12px; */
