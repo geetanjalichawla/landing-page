@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: black;
+    color:white;
 }
 .wrapper{
     height: 100vh;
@@ -42,18 +44,18 @@ font-weight: 600;
     height: 121px;
     filter: blur(75px);
 }
-.red{
+.saffron{
     /* left: -12px; */
-    background-color: #FF0D6A;
+    background-color: #FF671F;
     left: 20%;
 
 }
-.purple{
-   background-color: #0500FF;
+.white{
+   background-color:white;
 
 }
-.blue{
-    background: #00FFE0;
+.green{
+    background: green;
     right: 20%;
 
 }
